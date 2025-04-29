@@ -1,4 +1,4 @@
-# Hello 👋🏽 
+# Hey 🤙🏽
 
 Developing analytical solutions, data products and expanding a data-driven culture! Always looking for self-learning.
 
