@@ -5,10 +5,10 @@ Developing analytical solutions, data products and expanding a data-driven cultu
 Focused area: Data Science and Analytics
 
 **Basically, my projects are distributed across my repositories according to the responsibilities of:** <br/>
-* [AE] Analytics Engineer
-* [DE] Data Engineer
-* [DS] Data Scientist
-* [SE] Software Engineer 
+* [AE] Analytics Engineer (Senior-level)
+* [DE] Data Engineer (Senior-level)
+* [DS] Data Scientist (Mid-level)
+* [SE] Software Engineer (Mid-level)
 
 
 “Data really powers everything that we do.” Jeff Weiner
