@@ -1,12 +1,12 @@
 # Hey 🤙🏽
 
-Developing analytical solutions, data products and expanding a data-driven culture! Always looking for self-learning.
+Developing analytical solutions, data products, and fostering a data-driven culture. Always pursuing self-learning.
 
 Focused area: Data Science and Analytics
 
-**Basically, my projects are distributed across my repositories according to the responsibilities of:** <br/>
-* [AE] Analytics Engineer (Senior-level)
-* [DE] Data Engineer (Senior-level)
+**Basically, my projects are organized across my repositories based on the following roles:** <br/>
+* [AE] Analytics Engineer & Lead (Senior-level)
+* [DE] Data Engineer & Lead (Senior-level)
 * [DS] Data Scientist (Mid-level)
 * [SE] Software Engineer (Mid-level)
 
