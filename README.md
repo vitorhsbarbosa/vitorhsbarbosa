@@ -7,7 +7,7 @@ Focused area: Data Science and Analytics
 **Basically, my projects are organized across my repositories based on the following roles:** <br/>
 * [AE] Analytics Engineer & Lead (Senior-level)
 * [DE] Data Engineer & Lead (Senior-level)
-* [DS] Data Scientist (Mid-level)
+* [DS] Data Scientist (Senior-level)
 * [SE] Software Engineer (Mid-level)
 
 
