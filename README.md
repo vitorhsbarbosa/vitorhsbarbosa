@@ -1,5 +1,3 @@
-# Hey 🤙🏽
-
 Developing analytical solutions, data products, and fostering a data-driven culture. Always pursuing self-learning.
 
 Focused area: Data Science and Analytics
